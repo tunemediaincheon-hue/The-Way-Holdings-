@@ -1,0 +1,6 @@
+{
+  "name": "더웨이홀딩스 K-뷰티 창업지원센터",
+  "description": "K-뷰티 산업의 성장과 창업 활성화를 위해 창업 교육, 공동구매, 브랜드 론칭, 글로벌 진출 및 강사 양성 프로그램을 지원하는 올인원 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
